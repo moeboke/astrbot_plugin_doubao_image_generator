@@ -1,0 +1,1 @@
+# astrbot_plugin_doubao_image_generator
